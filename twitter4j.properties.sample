@@ -1,0 +1,5 @@
+# Fill in this file with authentication info from twitter
+oauth.consumerKey=xxxxxxxxxxxxxxxxxxxxxx
+oauth.consumerSecret=xxxxxxxxxxxxxxxxxxxxxx
+oauth.accessToken=xxxxxxxxxxxxxxxxxxxxxx
+oauth.accessTokenSecret=xxxxxxxxxxxxxxxxxxxxxx

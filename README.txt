@@ -32,3 +32,12 @@ Searching Twitter
 -----------------
 echo '{"act":"search", "message":"NAIST"}' | dtnsend --src twitter_client dtn://gateway/twitter
 dtnrecv --name twitter_client
+
+License
+=======
+This project includes open-source softwares. 
+   IBR-DTN (https://www.ibr.cs.tu-bs.de/projects/ibr-dtn/)
+   Twitter4j (http://twitter4j.org/)
+
+IBR-DTN and Twitter4j are licensed under the Apache license ver.2.0.
+(http://www.apache.org/licenses/LICENSE-2.0)
